@@ -34,5 +34,18 @@
     "postcss-nested": "^1.0.0",
     "postcss-simple-vars": "^1.2.0",
     "webpack": "^1.13.1"
-  }
+  },
+
+"main": "gulpfile.js",
+"scripts": {
+  "test": "echo \"Error: no test specified\" && exit 1"
+},
+"repository": {
+  "type": "git",
+  "url": "(https://github.com/Anja19866/travel-site.git)"
+},
+"author": "Anja19866 <anja.kraus@it-bfw.de>",
+"license": "MIT",
+"description": "This is a learning project."
 }
+
